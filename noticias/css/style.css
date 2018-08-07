@@ -1,0 +1,38 @@
+/**
+ * Projet jQuery
+ * Squamifer.ovh
+ *
+ * @project     Système de news - POO en PHP
+ * @namefile    style.css
+ * @fileversion 1.0.0
+ * @cssversion  css3
+ * @author      Squamifer
+ * @copyright   2016 by the author & openclassrooms
+ * @license     no license - free to use - just link to my github - Thanks :)
+ * @mygithub    https://github.com/ChristopheMalo    
+*/
+/**
+
+/**
+ * -------------------------
+ * Font
+ * -------------------------
+ */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+
+/**
+ * -------------------------
+ * Generique
+ * -------------------------
+ */
+body {
+    padding-top: 10px;
+}
+#content-form {
+    margin-bottom: 20px;
+}
+footer {
+    font-size: 90%;
+    padding-top: 40px;
+    text-align: center;
+}

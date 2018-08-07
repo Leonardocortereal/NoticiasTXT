@@ -1,0 +1,1 @@
+a:1:{i:0;a:3:{s:5:"titre";s:26:"Sistema DE NOTICIAS EM TXT";s:6:"auteur";s:8:"Leennard";s:7:"contenu";s:21:"EITA ESTA A FUNCIONAR";}}
